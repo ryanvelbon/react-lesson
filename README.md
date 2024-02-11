@@ -1,3 +1,7 @@
+# React Refresher
+
+Playing around with React in 2024 after 3 years.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
